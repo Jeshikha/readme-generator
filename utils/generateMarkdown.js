@@ -22,14 +22,15 @@ ${renderLicenseBadge(data.license)}
 ## Description
 Welcome to ${data.title}, a meticulously designed project that offers an in-depth solution for generating README files for users. This README provides comprehensive information to guide both developers and enthusiasts through the intricacies of our creation.
 
+\`\`\`
+${data.description}
+\`\`\`
+
 ## Table of Contents
 * [Installation](#installation)
-${data.installation}
 * [Usage](#usage)
-${data.usage}
 ${renderLicenseLink(data.license)}
 * [Contributing](#contributing)
-${data.contribution}
 * [Tests](#tests)
 * [Questions](#questions)
 
@@ -43,11 +44,19 @@ ${data.installation}
 ## Usage
 Unlock the full potential of ${data.title} by understanding how to effectively utilize its features. [Add any specific instructions or guidelines for users here.]
 
+\`\`\`
+${data.usage}
+\`\`\`
+
 ## License
 This project operates under the ${data.license} license, ensuring a balance between openness and legal protection.
 
 ## Contributing
 We appreciate and welcome contributions from the community. Before you start contributing to ${data.title}, please review our guidelines [link to contributing guidelines].
+
+\`\`\`
+${data.contributing}
+\`\`\`
 
 ## Tests
 Verify the robustness of ${data.title} by running comprehensive tests using the following command:
