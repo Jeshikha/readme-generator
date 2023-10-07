@@ -29,6 +29,7 @@ ${data.description}
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
+* [README Generator](README-gen.md)
 ${renderLicenseLink(data.license)}
 * [Contributing](#contributing)
 * [Tests](#tests)
