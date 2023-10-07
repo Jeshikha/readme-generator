@@ -42,5 +42,11 @@ Drew helped and guided through on how to make this app functional.
 ## Useful links of App
 1. Github link to repository: https://github.com/Jeshikha/readme-generator
 
-2. A sample README-gen.md file for the project repository generated using the application: 
+2. A sample README-gen.md file for the project repository generated using the application: https://github.com/Jeshikha/readme-generator/blob/main/README-gen.md
 
+### Screenshots of App
+
+The following images show the web application's functionality:
+
+* READNE sample
+![opening the code in Github](read.png)
